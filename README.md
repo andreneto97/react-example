@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-Changed to force Pull Request
+Changed to force Pull Requests
 
 ### `yarn start`
 
