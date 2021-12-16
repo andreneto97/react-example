@@ -4,7 +4,7 @@ This project was bootstraaapped with [Create React App](https://github.com/faceb
 
 ## Available Scripts
 
-In the project directory, you can run:
+In the ssproject directory, you can run:
 
 ### `yarn start`
 
